@@ -1,0 +1,1 @@
+This is yet another self attempt to learn the write file system module in nodejs.
